@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">10119182Latihan2</string>
+    <string name="username">Username</string>
+    <string name="logo">BloodShare</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="connect_with_facebook">CONNECT WITH FACEBOOK</string>
+    <string name="or">OR</string>
+    <string name="doesn_t_have_account">doesn\'t have account?</string>
+    <string name="register">Register</string>
+</resources>
