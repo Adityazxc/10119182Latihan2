@@ -1,4 +1,8 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
+    <!--    Last Edit 27-04-22-->
+    <!--    10119182-->
+    <!--    Aditya Firmansyah-->
+    <!--    IF-5-->
     <!-- Base application theme. -->
     <style name="Theme.10119182Latihan2" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
